@@ -60,7 +60,7 @@
         "sinon": "17.0.1",
         "storybook": "8.6.14",
         "typescript": "5.8.3",
-        "validator": "13.12.0",
+        "validator": "13.15.22",
         "vite": "4.5.14",
         "vite-plugin-svgr": "3.3.0",
         "@dnd-kit/core": "6.3.1",
